@@ -1,0 +1,3 @@
+/home/changc/disk/pytorch/projects/advdn/kmcuda/src/CMakeFiles/edit_cache.dir
+/home/changc/disk/pytorch/projects/advdn/kmcuda/src/CMakeFiles/rebuild_cache.dir
+/home/changc/disk/pytorch/projects/advdn/kmcuda/src/CMakeFiles/KMCUDA.dir

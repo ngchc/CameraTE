@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: libKMCUDA
+Version: 6.2.3
+Summary: Accelerated K-means and K-nn on GPU
+Home-page: https://github.com/src-d/kmcuda
+Author: Vadim Markovtsev
+Author-email: vadim@sourced.tech
+License: Apache Software License
+Download-URL: https://github.com/src-d/kmcuda
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7

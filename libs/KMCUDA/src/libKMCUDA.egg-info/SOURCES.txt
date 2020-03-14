@@ -1,0 +1,7 @@
+README.md
+setup.py
+libKMCUDA.egg-info/PKG-INFO
+libKMCUDA.egg-info/SOURCES.txt
+libKMCUDA.egg-info/dependency_links.txt
+libKMCUDA.egg-info/requires.txt
+libKMCUDA.egg-info/top_level.txt
