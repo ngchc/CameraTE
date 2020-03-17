@@ -1,6 +1,6 @@
 Camera Trace Erasing
 ====
-Chang Chen, Zhiwei Xiong, Xiaoming Liu, Feng Wu. [Camera Trace Erasing](). In CVPR 2020. <br/>
+Chang Chen, Zhiwei Xiong, Xiaoming Liu, Feng Wu. [Camera Trace Erasing](https://arxiv.org/pdf/2003.06951.pdf). In CVPR 2020. <br/>
 
 ## Requirements
 Anaconda>=5.2.0 (Python 3.6) <br/>
@@ -8,7 +8,7 @@ PyTorch>=1.0.1 <br/>
 Matlab R2018b (and above) <br/>
 
 ## Datasets and Results
-Download zip files to access the datasets and results <br/>
+Download \*.zip files, and unzip them to "datas" and "results", respectively <br/>
 [http://pan.bitahub.com/index.php?mod=shares& <br/>
 sid=eTJ2bFFQR3BzTm5FTGxONHJ3WXZzTTlobjItSTFzYl9vTmVySlE](http://pan.bitahub.com/index.php?mod=shares&sid=eTJ2bFFQR3BzTm5FTGxONHJ3WXZzTTlobjItSTFzYl9vTmVySlE)
 
