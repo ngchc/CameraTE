@@ -16,14 +16,14 @@ sid=eTJ2bFFQR3BzTm5FTGxONHJ3WXZzTTlobjItSTFzYl9vTmVySlE](http://pan.bitahub.com/
 ```
 ├─datas
 │  ├─KCMI-550.zip
-│  │  ├─KCMI-550                    // Images for validation
+│  │  ├─KCMI-550                    // Images for testing
 │  │  ├─KCMI-550-Val                // List of images
 │  ├─VISION-1500.zip
-│  │  ├──VISION-1500                // Images for validation
+│  │  ├──VISION-1500                // Images for testing
 │  ├─KCMI+.zip
 │  │  ├─KCMI+                       // Images for training
 ├─libs
-│  ├─CameraFingerprint              // Fingerprint and PCE for verification
+│  ├─CameraFingerprint              // Library for verification
 │  ├─KMCUDA                         // Source code for building
 │  ├─libKMCUDA.so                   // Library for CUDA-based K-means
 ├─models                            // Pre-trained models
